@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+MIDlet-Name: Ratchet and Clank Going Mobile sefan.ru
+MIDlet-Version: 1.0.10
+MIDlet-Vendor: mob.ua
+MIDlet-1: Ratchet and Clank Going Mobile, /icon.png, ratchetandclank
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Icon: /icon.png
+Created-By: Metaflow
+BOSS_HIT_POINT_SHELL: 35
+BOSS_HIT_POINT_KERNEL: 100
+BOSS_FIRE_RATE: 22
+MIDlet-Spec-Code: true
+Nokia-MIDlet-Category: Game
+SiteURL: wap.mob.ua

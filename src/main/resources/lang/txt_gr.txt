@@ -1,0 +1,321 @@
+Hauptmen�
+Neues Spiel
+Spiel laden
+Einstellungen
+Hilfe
+Info
+Beenden
+Ausw�hlen
+Zur�ck
+Weiter
+Ja
+Nein
+Levelauswahl
+Level 0
+Schaltkreisrunde
+Schlachtgel�nde
+Kommunikationsstation
+Sicherheits-BIOS
+Gro�rechner
+Maktar-Casino
+Silberdiode
+Brennschluss-Mordsch�ssel
+Megakill-Schuss-Arena
+Zentraler Empf�nger-Uplink
+Die Arena
+Goldkette
+Waffenladen
+Spieleinstellungen
+Ton: AN
+Ton: AUS
+Keine Audio-Unterst�tzung
+.(leer)
+%0. %1
+Spielstand l�schen
+Diese Spieldatei l�schen?
+Spiel beenden?
+Seite %0/%1
+Mitwirkende
+Pause
+Fortsetzen
+Spiel speichern
+Hauptmen�
+Spiel beenden
+Spiel gespeichert
+Alte Daten �berschreiben?
+Zum Hauptmen� wechseln?
+Spiel verlassen?
+Dieses kaufen...?
+Wrench
+Lancer
+Gravity Bomb
+Mini Rocket
+Defragmenter
+Circuit Jammer
+Boar-Zooka
+R.I.DD.A.
+Bolzen: %0
+Preis: %0
+Munition kaufen FF�r:
+Zu wenig Bolzen!
+Mikro-Gasse
+Kistenkratzer-Kolosseum
+Lance-A-Palooza 1
+Explodo-Zone
+Wrench-Kampf
+Lance-A-Palooza 2
+Zeit zu Sterben
+Attentat-Station
+Raketenwirbel
+Attentat-Station Fortsetzung
+Wieder Zeit zu Sterben
+Eber-Blitz-Schlacht
+Du hast die RIDA!
+N�chster Waffenlevel!
+Du hast einen Titanbolzen gefunden! Sammele alle FF�r den R.I.DD.A.
+Du hast gewonnen!
+STEUERUNG
+Nach oben oder 2: Springen, gleiten, greifen.
+Nach links oder 4: nach links.
+Nach rechts oder 6: nach rechts.
+Nach unten oder 8: Runterspringen �ber die Plattformen.
+OK oder 5: Waffenangriff, Wrench-Angriff, wenn nahe bei Gegner, T�rriegel oder Kiste.
+Taste *: Wrench-Angriff.
+Taste #: Waffe wechseln.
+Ratchet & Clank FF�r das Handy
+Version ??
+Info-EE-Mail:
+ratchet_support @sonypictures.com
+Produktion und Design von Sony Pictures Mobile. Entwickelt von Handheld Games.
+Direktor:
+Thomas Fessler
+Entwicklungsleitung:
+Lyndon Moore III
+Produktion:
+Seth Rosenfeld
+Programmierungs-leitung:
+Jason Flegle
+Design:
+Brad Wiggins
+K�nstlerische Leitung:
+Ben Hopper
+Programmierungs-assistenz:
+Kathy Li
+Eka Tjung
+Hier ist ein weiterer Informationslink. Damit kommen wir nur tiefer in die Software, aber ich denke, ich kann auf die Speicher-Subsysteme zugreifen, damit wir unsere Waffen wieder aufladen k�nnen.
+Gute Idee, lass uns jetzt abhauen, bevor ich wieder zum Diener degradiert werde.
+Noch ein Infolink. Dieser FF�hrt zur�ck zum Betriebssystem. Von diesem Bereich kann ich ein Kommunikationssystem anzapfen.
+Um uns hier raus zu bekommen? Jetzt wo ich mich hier langsam wohlf�hle!
+Hmmm... Ich glaube, ich habe aus Versehen eine virtuelle Kampfarena freigeschaltet.
+Hey, das ist doch immer ganz spa�ig!
+Mit diesem Infolink m�ssen wir den Sicherheitssystem- knoten auffinden, der diese T�r geschlossen HH�lt.
+K�nnen wir nicht einfach anklopfen?
+Endlich - ein Kommunikations- anschluss!
+Hey Jungs... seid ihr es wirklich? Ihr seht heute ein wenig gepixelt aus...
+Wir sind heute Nachmittag versehentlich digitalisiert worden und m�ssen herausfinden, wie wir das r�ckg�ngig machen k�nnen.
+Ach, das ist einfach. Ihr m�sst nur eure digitalen K�rperdaten durch den Macro Corporeal Geo Fragmention Ion Negator oder MCGuFIN jagen. Das kehrt den Biodigitalisierungs- prozess um und bringt euch wieder in den analogen Bereich.
+Einmal Schlaumeier, immer Schlaumeier.
+Und wo finden wir diesen MCGuFIN?
+Oh, Ich habe gerade einen da. Ich verwende ihn als T�rstopper.
+Wie hilft das Ding uns hier drinnen?
+Vielleicht kann Big Al ihn zur Bio Matter Converter-Station bringen und ihn uns dann schicken...
+Aber heute Abend findet mein 'Am�boiden und Vorzimmer'-Spiel statt...
+Wir brauchen hier dringend Hilfe...
+Hey, tut mir Leid wegen der ganzen Schlaumeier-Kommentare
+Na ja, ich glaube, ihr Jungs seid ganz sch�n aufgeschmissen. Ich gehe jetzt da hin�ber und schie�EE ihn in mein Secret Agent Clank-Vidcomic. Ich werde das Portal �ffnen, das ihr ben�tigt, um hineinzukommen.
+Du hast einen Teil des MCGuFIN gefunden. Du hast %0 der 6 Teile.
+Du hast einen Teil des MCGuFIN gefunden. Du hast %0 der 6 Teile.
+Du hast einen Teil des MCGuFIN gefunden. Du hast %0 der 6 Teile.
+Du hast einen Teil des MCGuFIN gefunden. Du hast %0 der 6 Teile.
+Was sagt der Infolink?
+Es zeigt an, dass die letzten zwei Teile des MCGuFin in diesen zwei Vidcomic-Bereichen gefunden werden k�nnen.
+Ein Ende ist in Sicht!
+Du hast einen Teil des MCGuFIN gefunden. Du hast %0 der 6 Teile.
+Du hast einen Teil des MCGuFIN gefunden. Du hast %0 der 6 Teile.
+Wow, schau dir das Schmiergeld an. Ich hoffe, das ist genug, um diese T�rsteher zu bestechen.
+Okay, das scheint sein B�ro zu sein, aber wo ist er?
+Laut Sicherheitssystem hat er den Bereich verlassen. Da ist ein Infolink zur�ck nach...
+Das ist genau der Bereich, in den wir m�ssen! Woher kannte er unser Ziel?!
+Ist momentan nicht feststellbar. Auf alle FF�lle hat er die Codes zur�ckgelassen, die erforderlich sind, um die Statikfelder zu senken, welche das Gebiet sichern.
+Na los, lass uns zur�ckgehen und ihm folgen - er geht in Richtung Betriebssystem-Ausgang - wenn er einen Weg in die Au�enwelt findet, gibt es m�chtig �rger.
+Es sieht so aus, als ob dieser Weg zu einem weiteren Hochsicherheitsbereich des Betriebssystems FF�hrt - und dahinter liegt die Verbindung zwischen dem Betriebssystem und der realen Welt.
+Spitze. Weitere K�mpfe. Das machen wir. Sonst gibt's nichts zu erledigen.
+Entweder das oder Maximillian transportiert sich in die reale Welt...
+Noch ein Superverbrecher? Genau das braucht die Welt... Los, lass uns dem Kerl die Schrauben rausdrehen.
+Hier ist die letzte Sicherheitst�r vor dem Infolinkausgang nach drau�en. Bisher noch kein Anzeichen von Maximillian - wie gro� ist die Wahrscheinlichkeit, dass er hinter der T�r ist?
+Ich rechne mit einer Wahrscheinlichkeit von 98,072 %.
+Oh Mann, das habe ich bef�rchtet. Los geht's.
+Und was ist das FF�r ein Ding?
+Es scheint ein Infolink zu sein, der diesen Bereich mit dem Rest des Informations-netzwerks der Galaxie verbindet. Er bringt uns zu einem anderen Elektroger�t, mit dem wir mit der analogen Welt kommunizieren k�nnen...
+Wir kommen damit hier heraus? Dann bin ich dabei! Los geht's!
+Wir haben den MCGuFIN zusammengebaut.
+Um ihn zu aktivieren, musst du Zugang zu einem bestimmten Infolink in diesem sicheren Bereich haben. Die Codes zum Eindringen werden dort in einem Tresor aufbewahrt!
+Warum, dieser Bereich ist anscheinend das B�ro von...
+Maximillian! Deine alte Nemesis aus den Secret Agent Clank Holovids!
+Ja, und er ist kein leicht zu findender Roboter. Seine Roboter-Bewacher sind fast unbesiegbar, aber bestechlich. Der einzige Ort , an dem man soviel Geld bekommt, ist die Bestechungsgruft der Kampfarena! Dieser Bereich ist mit einer Schutzbarriere gesichert, die das Eindringen verhindert. Aber ich habe eine L�sung FF�r das Problem - eine Circuit Jammer-Waffe!
+Du hast den Circuit Jammer erhalten! Diese Waffe zielt auf die feindlichen elektrischen Signale und kann interne Systeme mancher Sicherheitsger�te zerst�ren.
+Irgendetwas ist passiert. Es scheint nur ein Teil des Ger�ts hier zu sein...
+Da ist eine Nachricht... Ich werde sie abspielen.
+Ich habe versucht, den MCGuFIN durch den Bio Matter Converter laufen zu lassen, aber es ist ein �bertragungsfehler aufgetreten. Durch einen Stromsto� ist der MCGuFIN in sechs Teile zersprungen. Jedes Teil ist in einem anderen Vidcomic-Areal gelandet. Ich habe einige Infolinks zu jedem Vidcomic-Knoten FF�r euch ge�ffnet, aber ihr m�sst die sechs Teile finden und das Ger�t wieder zusammenbauen.
+Ist heute Montag? Ich hasse Montage.
+Wir haben keine Wahl, wir m�ssen uns entscheiden, wohin wir als n�chstes gehen.
+Wo sind wir?!
+Es scheint, als ob die Bio Matter Converter-Technologie, die wir uns ansehen sollten, aus Versehen gestartet wurde.
+Und das bedeutet?
+Ich glaube, wir wurden in digitale Daten konvertiert und im Converter gespeichert. Interessant...
+Und was machen wir jetzt...?
+Ich glaube, wir m�ssen... Vorsicht!
+Dr�cke OK oder die Taste 5, um mit dem Wrench anzugreifen.
+Mein Gott...
+Hey, ich kenne diesen Ort...
+Ja, er kommt mir bekannt vor, zu bekannt. Ich glaube, wir wurden in ein Vidcomic-Ger�t verfrachtet. Um genau zu sein, ein 'Secret Agent Clank'-Vidcomic.
+Cool!
+Vielleicht, aber auch verdammt gef�hrlich. Wir sollten Munition FF�r deine Waffe finden.
+Dr�cke OK oder die Taste 5, um den Lancer abzufeuern.
+Zum Mauerspringen springe in Richtung Mauer und dr�cke nach oben oder die Taste 2, wenn Ratchet die Mauer ber�hrt. Du kannst auch dauerhaft Mauerspringen, um gro�EE vertikale Sch�chte wie diesen hochzuklettern.
+Zum Gleiten dr�cke nach oben oder die Taste 2 nach dem Sprung. Versuche, diesen Schacht hinabzugleiten.
+Ratchet kann an Schienen entlangschleifen, indem er auf diese springt. Versuche, an dieser Schiene entlangzuschleifen.
+Schlage zum Entriegeln einer T�r mit dem Wrench auf den Schlossriegel.
+Dieser Ort sieht NICHT einladend aus!
+Es ist ein weiterer Vidcomic - Es sieht aus wie eine Art Kampfarena.
+Sieh dir die Plakate an... Ace Hardlight! Ich habe den Kerl verehrt, als ich noch klein war!
+Vielleicht finden wir weitere Antworten - Die Gegend sieht gef�hrlich aus, wir sollten vorsichtig sein.
+Ich? Mein Name ist Vorsicht!
+Dr�cke nach oben oder die Taste 2, um Clanks Greifzangen zu verwenden. Sobald du einen Greifzangenschwung gestartet hast, dr�cke nach oben oder 2, um zus�tzliche Greifzangenpunkte zu greifen.
+Stehen bleiben! Niemand kommt durch diese T�ren!
+Na gut, dann m�ssen wir unser Schmiergeld wohl woanders loswerden!
+�hm, ich meinte... Niemand kommt durch diese T�ren, au�er das Schmiergeld bleibt hier. Tretet ein.
+Ah... ist das nicht Agent Clank und sein... Diener.
+Hey... einen Moment!
+Ihr dachtet also, ihr k�nnt mir auf der Nase herumtanzen...
+Wenn er eine Nase HH�tte...
+Meine Agenten... haben mir euren Plan verraten, also habe ich euch von der Au�enwelt getrennt und nehme euch jetzt diesen MCGuFIN weg. Ich freue mich schon auf die Au�enwelt, w�hrend ihr hier ewig eingesperrt seid.
+Einem Typen wie dir werden wir den MCGuFIN wohl kaum �berlassen, Maximillian.
+Ich glaube, ihr habt keine Wahl, wenn ich dich erstmal zu Altmetall verarbeitet habe - Agent Clank!
+Endlich! Und jetzt lass uns abhauen!
+Ich werde den MCGuFIN jetzt anschlie�en und wir verwenden diesen Infolink, um unsere analoge Form wiederzuerlangen.
+Wo werden wir wohl rauskommen?
+Keine Ahnung.
+
+Alles an einem Tag!
+Lass uns mal sehen, was sich hinter dieser T�r verbirgt!
+Bei unserem Gl�ck ist es ein Blargian Snagglebeast? Ohhh, Ich kann es kaum abwarten...
+Was ist das?
+Sieht aus wie ein Software-Modul, dass ich ver�ndern kann, damit ich meine Arme verl�ngern und diese gr�nen Knoten greifen kann.
+Es funktioniert also wie meine Greifzangenkanone?
+Genau. Wenn du ein Greifzangensymbol auf dem Bildschirm siehst, kannst du nach oben oder 2 dr�cken, um meinen Arm FF�r einen Griff oder Schwung zu verl�ngern. Du kannst �ber mehrere Greifzangenpunkte hintereinander schwingen, wenn du mitten in der Luft zwischen zwei Schw�ngen die 2 dr�ckst.
+Was ist das da vorne?
+Ich rate dir, alle Unebenheiten auf den Gleisen zu vermeiden. Die statische Kraft, die uns auf den Gleisen HH�lt, ist sehr schwach.
+Halt dich fest, ich springe dr�ber!
+Dr�cke die Taste 8 oder nach unten auf diesem Teleporter, um diesen Level zu verlassen.
+Wir m�ssen die W�nde da unten wohl mit dem Circuit Jammer zerst�ren.
+Wenn ich nicht auf deinem R�cken gefesselt w�re, w�rde ich dem engen vertikalen Schacht links neben dir folgen.
+Missionsziel: T�ten oder get�tet werden
+Missionsziel: Finde den Info-Bot
+Missionsziel: Finde den Kommunikations- anschluss
+Missionsziel: �ffne die T�r, die den Zugang zum Kommunikations- anschluss blockiert
+Missionsziel: Verwende den Kommunikations- anschluss, um mit Big Al zu reden
+Missionsziel: Finde Schmiergeld FF�r den T�rsteher
+Missionsziel: Finde das MCGuFIN-Teil
+Missionsziel: Zerst�re Maximillian
+Missionsziel: Zerst�re alle Gegner
+Missionsziel: Zerst�re alle Gegner nur mit dem Wrench
+Missionsziel: Zerst�re alle Gegner, bevor deine Lebensenergie zu Ende geht
+Missionsziel: Zerst�re alle Gegner, ohne getroffen zu werden
+Missionsziel: Verwandle alle Gegner in Eber
+Missionsziel: Zerst�re alle Gegner nur mit dem Lancer
+Missionsziel: Besiege Gegner mit dem Wrench und finde den Teleporter
+Du hast %0 von %1 Titanbolzen gefunden!
+Schlafgas: Ratchets Lebensenergie nimmt mit der Zeit ab.
+T�te alle Gegner, um den Arena-Level zu schaffen.
+Todesschlag: Ratchet stirbt nach einem Treffer.
+Ratchet kann nur %0 verwenden.
+Munition
+Level 2 freigeschaltet
+Level 3 und Arena-Levels freigeschaltet
+Level 4 freigeschaltet
+Du hast in Level 1 und 2 ein neues Gebiet freigeschaltet
+Objekt 1 erhalten und Level 6 freigeschaltet
+Objekt 2 erhalten und Level 8 freigeschaltet
+Objekt 4 und die HH�lfte der Koordinaten FF�r Level 5 erhalten
+Objekt 4 und die HH�lfte der Koordinaten FF�r Level 5 erhalten
+Level 7 und 9 freigeschaltet
+Objekt 5 erhalten
+Objekt 6 erhalten
+Schatzobjekt erhalten und T�r 3 in Level 6 freigeschaltet
+Durchgang FF�r statische Barriere erhalten
+Level 10 freigeschaltet
+Boss-Raum freigeschaltet
+Waffe erhalten (Circuit Jammer)
+Bolzen-Belohnung: %0
+Du hast %0 Bolzen gewonnen!
+Die n�chste Arena wurde freigeschaltet.
+Du hast die Boar-Zooka erhalten.
+Nicht verf�gbar
+Kaufen
+Aktuelle Munition: %0/%1
+Du hast die T�r in Level 3 freigeschaltet
+Du hast maximale Munition
+Taste 1: Nach links springen.
+Taste 3: Nach rechts springen.
+Auswahltasten: Spielpause.
+Du kannst den T�rsteher nun bestechen
+WAFFE
+Wird automatisch in der N�he von Gegnern und Kisten verwendet. Ohne Munition.
+Feuert schwache, schnelle Feuerst��EE.
+Geringe Flugbahn mit gro�em Explosionsradius.
+Gerader Schuss mit kleinem Explosionsradius.
+M�chtiger Schuss mit Wirkung auf alle Ziele. Auf lange Distanz schw�cher.
+Schnelle, schw�chere Feuerst��EE auf Gegner.
+Verwandelt Gegner in Schweine.
+M�chtige Sch�sse mit kleinem Explosionsradius.
+KISTEN
+BOLZEN-KISTE
+NANOTECH
+GADGETRON-KISTE
+Knacken, um die Bolzen zu sammeln.
+Knacken und sammeln, um teilweise zu gesunden.
+L�dt die Waffenmunition auf.
+Spiel-Lobby
+Abbrechen
+Level erneut spielen
+Speichern/Erneut spielen
+M�chtest du das Spiel erneut im Challenge-Modus spielen?
+Speicher-Slot w�hlen
+Ratchet & Clank ist eine eingetragene Marke von Sony Computer Entertainment America Inc. �2007 Sony Computer Entertainment America Inc. Alle Rechte vorbehalten. �2007 Sony Pictures Digital Inc. Alle Rechte vorbehalten.
+Dein Spiel wurde gespeichert
+Ratchet-Skin holen
+Wenn du gewinnst, stehen dir 2 tolle Skins FF�r den Multiplayer-Modus von Ratchet: Gladiator zur Verf�gung.
+Weitere Informationen: www.sonypictures.com/mobile/ratchet
+Gib deinen Multiplayer-Namen FF�r Ratchet: Gladiator ein:
+Dein Name:
+Schalte 2 tolle Skins FF�r den Multiplayer-Modus von Ratchet: Gladiator frei, indem du diesen Code eingibst.
+Fehler!
+Multiplayer-Name muss mindestens 4 Zeichen lang sein.
+Multiplayer-Name darf HH�chstens 16 Zeichen lang sein.
+Alle Waffen
+LEVEL- ZUSAMMENFASSUNG
+Erledigte Gegner:
+Bolzen:
+Titanbolzen:
+Zeit:
+Par:
+Pazifistenbonus!
+Perfekter Bonus!
+Eber-Bonus!
+Punktzahl:
+Gesamtzeit:
+Gesamtpunktzahl:
+Nicht geschafft
+Bitte noch mal versuchen
+Level:
+Verbleibende Gegner:
+Abtr�nnige Panzerung:
+Eugene:
+Sprache
+English
+Fran�ais
+Italiano
+Deutsch
+Espa�ol
+Wird geladen...

@@ -1,0 +1,321 @@
+Menu principale
+Nuova partita
+Carica partita
+Impostazioni
+Guida
+Informazioni su
+Esci
+Seleziona
+Indietro
+Avanti
+S�
+No
+Seleziona livello
+Livello 0
+Circuito Circuito
+Battleland
+Stazione di comunicazione
+BIOS di sicurezza
+Mainframe dati
+Casino Maktar
+Diodo DD'argento
+Burnout Murderbowl
+Megakill Blast Arena
+Central Receiver Uplink
+Arena
+Goldsprocket
+Negozio di armi
+Impostazioni di gioco
+Audio: SI
+Audio: NO
+Nessun supporto audio
+.(vuoto)
+%0. %1
+Elimina salvataggi
+Elimina questo file di salvataggio?
+Esci dal gioco?
+Pag. %0/%1
+Crediti
+Pausa
+Continua
+Salva partita
+Menu principale
+Esci dal gioco
+Partita salvata
+Sovrascrivi II dati?
+Torna al menu principale?
+Vuoi davvero uscire dal gioco?
+Vuoi comprarlo... ?
+Chiave
+Lanciarazzi
+Bomba gravit�
+Mini missile
+Deframmentatore
+Mitragliatrice
+Boar-Zooka
+R.Y.N.O.
+Bulloni: %0
+Prezzo: %0
+Compra munizioni per:
+Bulloni insufficienti!
+Micro condotto
+Colosseo Arraffacasse
+Lanciapalooza 1
+Zona Esplosioni
+Chiavemania
+Lanciapalooza 2
+Il tempo di morire
+Stazione Uccisione
+Tempesta di missili
+Stazione Uccisione Continua
+Il tempo di morire ancora
+Battaglia di cinghiali
+Hai preso il RYNO!
+Livello armi aumentato!
+Hai trovato un bullone di titanio! Raccoglili tutti per ottenere il R.Y.N.O.
+Hai vinto!
+COMANDI
+Su o tasto 2: salta, librati, aggrappati.
+Sinistra o tasto 4: vai AA sinistra.
+Destra o tasto 6: vai AA destra.
+Gi� o tasto 8: salta in basso attraverso la piattaforma.
+OK o tasto 5: attacca con la pistola, attacca con la Chiave inglese quando sei vicino AA un nemico o AA una scatola.
+Tasto *: attacco chiave inglese.
+Tasto #: cambia arma.
+Ratchet and Clank
+Versione ??
+EE-mail per l'assistenza:
+ratchet_support @sonypictures.com
+Prodotto EE ideato da Sony Pictures Mobile. Sviluppato da Handheld Games.
+Regista:
+Thomas Fessler
+Responsabile dello sviluppo:
+Lyndon Moore III
+Produttore:
+Seth Rosenfeld
+Responsabile della programmazione:
+Jason Flegle
+Designer:
+Brad Wiggins
+Responsabile grafica:
+Ben Hopper
+Assistenti programmatori:
+Kathy Li
+Eka Tjung
+Ecco un altro Infolink. Ci aiuter� solo ad addentrarci pi� profondamente nel software, ma penso di poter accedere ai sottosistemi di memorizzazione in modo da ricaricare le tue armi.
+Buona idea, ora andiamocene di qui prima che io finisca di nuovo vestito da cameriere.
+Un altro Infolink. Questo riporta al sistema operativo. � un'area dove sar� in grado di inserirmi in un sistema di comunicazioni.
+Andarcene di qui?  Proprio quando iniziavo AA sentirmi AA mio agio!
+Mmmh... pare che io abbia involontariamente sbloccato un'arena virtuale di combattimento.
+Ehi, anche questo � sempre divertente!
+Dovremo usare questo Infolink per risalire al nodo del sistema di sicurezza che tiene chiusa questa porta.
+Non potremmo provare AA bussare?
+Finalmente! Una porta di comunicazione!
+Ehi ragazzi...  siete davvero voi?  Oggi mi sembrate un po' squadrettati...
+Sembra che oggi pomeriggio siamo stati digitalizzati per sbaglio EE ora dobbiamo capire come invertire il processo.
+Beh, � facile.  � sufficiente inserire II vostri dati corporali digitali nel Negatore Ionico AA Geoframmentazione Macrocorporale detto anche MCGuFIN.  In questo modo il processo di biodigitalizzazione sar� invertito EE voi tornerete nel mondo analogico.
+Secchione sei, secchione rimarrai.
+EE dove potremo trovare questo MCGuFIN?
+Oh, ne ho uno proprio qui. Lo uso come fermaporta.
+EE come potr� esserci utile quaggi�?
+Forse Big Al pu� portarlo al Convertitore di biomateria EE inviarcelo...
+Ma questa sera ho la partita di 'Ameboidi EE anticamere'...
+Abbiamo urgente bisogno di aiuto qui...
+Guarda, mi dispiace per tutti II commenti sui secchioni.
+Bene, ragazzi penso che siate nei guai. Ora andr� laggi� EE lo metter� nel mio vidcomic Secret Agent Clank.  Aprir� il portale che dovete attraversare per entrare.
+Hai trovato una parte del MCGuFIN. Possiedi %0 delle 6 parti.
+Hai trovato una parte del MCGuFIN. Possiedi %0 delle 6 parti.
+Hai trovato una parte del MCGuFIN. Possiedi %0 delle 6 parti.
+Hai trovato una parte del MCGuFIN. Possiedi %0 delle 6 parti.
+Allora, cosa dice l'Infolink?
+Indica che le ultime due parti del MCGuFin si trovano in queste due aree del vidcomic.
+Ce l'abbiamo quasi fatta!
+Hai trovato una parte del MCGuFIN. Possiedi %0 delle 6 parti.
+Hai trovato una parte del MCGuFIN. Possiedi %0 delle 6 parti.
+Wow, guarda quanta grana.  Spero che sia sufficiente per corrompere quei buttafuori.
+Sembra che questo sia il suo ufficio, ma lui dov'�?
+I sistemi di sicurezza indicano che ha lasciato l'area.  CC'� un Infolink che riporta AA...
+� proprio l'area che dobbiamo raggiungere! Come faceva AA sapere dove stavamo andando?!
+Impossibile da determinare al momento.  Ad ogni modo, ha lasciato II codici necessari per disattivare II campi statici che proteggono il sito.
+"Ok, torniamo indietro EE seguiamolo; � diretto all'uscita del sistema operativo, se riesce AA trovare un modo per raggiungere il mondo esterno saranno sicuramente guai per tutti."
+Sembra che conduca AA un'altra area del sistema operativo ad alta sicurezza oltre alla quale si trova il collegamento tra il sistema operativo EE il mondo reale.
+Fantastico.  Ancora combattimenti.  Ecco cosa facciamo.  Nient'altro che questo.
+Non abbiamo scelta, altrimenti Maximilian si trasferir� nel mondo reale...
+Un altro genio criminale?  � proprio ci� di cui il mondo ha bisogno...  Andiamo EE facciamolo AA pezzetti.
+Ecco l'ultima porta di sicurezza prima dell'uscita Infolink che porta fuori di qui.  Nessuna traccia di Maximillian fino ad ora, quindi quante probabilit� ci sono che si trovi dietro quella porta?
+Secondo II miei calcoli le possibilit� sono del 98,072%.
+Gi�, era proprio quello che temevo.  Andiamo.
+Allora, questo cos'�?
+Sembra un Infolink che collega quest'area con il resto della rete informativa della Galassia.  Ci porter� AA un altro dispositivo elettronico che ci consentir� di comunicare con il mondo analogico...
+Vuoi dire che ci permetter� di uscire di qui?  Allora cosa stiamo aspettando?  Andiamo!
+Abbiamo costruito il MCGuFIN.
+Per attivarlo, dovrai accedere AA un Infolink speciale all'interno di questa area protetta.  I codici di accesso sono conservati in una cassaforte in quest'area!
+Ehi, quell'area sembra l'ufficio di...
+Maximillian! Il tuo vecchio nemico in Secret Agent Clank Holovids!
+S�, EE non � un robot facile da incontrare.  I suoi buttafuori robot sono quasi invincibili, ma possono essere corrotti.  L'unico posto dove trovare cos� tanto denaro � dentro al caveau dell'arena di combattimento!  Quell'area � protetta da una barriera che impedisce l'accesso, ma ho io la soluzione, un'arma Mitragliatrice!
+Hai ricevuto la Mitragliatrice! Quest'arma individua II segnali elettrici del nemico EE pu� distruggere II sistemi interni di alcuni dispositivi di sicurezza.
+Sembra che sia successo qualcosa.  Pare che qui ci sia solo una parte del dispositivo...
+Qui CC'� un messaggio... ascoltiamolo.
+Ho provato AA passare il MCGuFIN attraverso il Convertitore di biomateria ma CC'� stato un errore nella trasmissione.  A causa di un sovraccarico si � diviso in sei parti ed ognuna � stata inviata AA un vidcomic diverso.  Ho aperto alcuni Infolink per voi verso ciascun nodo vidcomic, ma dovrete trovare le sei parti per riassemblarlo.
+Oggi � per caso un luned�?  Odio II luned�.
+Beh, non abbiamo molta scelta, dovremo decidere dove andare ora.
+Dove siamo?!
+Sembra che il Convertitore di biomateria che siamo stati invitati AA visitare sia stato inavvertitamente attivato.
+EE questo cosa significa?
+Credo che siamo stati convertiti in informazioni digitali EE memorizzati all'interno del Convertitore. Interessante..
+EE adesso cosa facciamo...?
+Credo che dobbiamo...  dare un'occhiata!
+Premi OK o il tasto 5 per attaccare con la Chiave inglese.
+Oh mamma...
+Ehi, questo posto mi � familiare...
+S�, � familiare, troppo familiare.  Credo che siamo stati trasportati in un vidcomic.  Per la precisione, un vidcomic 'Secret Agent Clank'
+Figo!
+Forse, ma anche estremamente pericoloso.  Suggerisco di cercare munizioni per la tua arma.
+Premi OK o il tasto 5 per sparare con il Lanciarazzi.
+Per saltare sul muro, salta verso un muro EE premi Su o il tasto 2 quando Ratchet tocca la parete.  Puoi saltare sul muro pi� volte consecutivamente per salire lungo alti condotti verticali come questo.
+Per librarti, premi Su o il tasto 2 dopo aver saltato.  Prova AA librarti gi� da questo condotto.
+Ratchet pu� scivolare sui tubi saltandoci sopra. Prova AA scivolare su questo tubo.
+Per aprire una porta, colpisci il lucchetto con la tua chiave inglese.
+Questo posto NON � invitante!
+� un altro vidcomic: sembra che sia ambientato in una specie di arena di combattimento.
+Guarda II manifesti... Ace Hardlight!  Quando ero piccolo lui era il mio idolo!
+Forse troveremo le risposte pi� avanti, quest'area sembra proprio pericolosa, quindi dobbiamo fare molta attenzione.
+Io?  Io sono nato attento!
+Premi Su o il tasto 2 per usare il grappino di Clank. Una volta iniziato AA dondolare con il grappino, puoi premere Su o 2 per afferrare II punti di aggancio successivi.
+Non vi muovete!  Nessuno passa di qui!
+Bene, credo che dovr� portare il nostro grano da qualche altra parte!
+Ehm.  Intendevo... nessuno passa di qui senza lasciarci un po' di grano.  Prego accomodatevi.
+Ah... ecco l'agente Clank EE il suo... camevieve.
+Ehi... aspetta un secondo!
+Quindi pensavi di potevmi sgattaiolave pvopvio sotto il naso...
+Se avesse un naso...
+Ebbene II miei agenti mi hanno... infovmato dei vostvi piani, quindi vi ho scollegati EE ova vi pvendev� quel MCGuFIN.  Sav� lieto di uscive nel mondo estevno, lasciandovi qui intvappolati pev l'etevnit�.
+Non credo che noi daremo il MCGuFIN AA uno come te, Maximilian.
+Non cvedo che avvete molta scelta quando vi avv� vidotto AA pezzetti, agente Clank!
+Finalmente! Ora andiamocene di qui!
+Ora collegher� il MCGuFIN EE user� questo Infolink per ritornare alle nostre forme analogiche.
+Da dove pensi che usciremo?
+Non prevedibile...
+
+Tutto in un solo giorno di lavoro!
+Ora scopriamo cosa CC'� dietro quella porta!
+Con la nostra fortuna un Mostrozanna di Blargus?  Ohhh, non vedo l'ora di scoprirlo...
+Questo cos'�?
+Sembra si tratti di un modulo software che posso modificare per allungare le mie braccia in modo da afferrare quei nodi verdi.
+Quindi funzioner� come la mia pistola-grappino?
+Esatto.  Quando vedi un'icona grappino sullo schermo, puoi premere Su o 2 per allungare le mie braccia EE aggrapparti o dondolare.  Puoi saltare da un punto di aggancio AA quello successivo premendo 2 AA mezz'aria tra un dondolamento EE l'altro.
+Cos'� quella cosa laggi�?
+Suggerisco di evitare qualsiasi irregolarit� di questo percorso. La forza statica che ci tiene attaccati � molto debole.
+Aspetta, lo salter�!
+Premi il tasto 8 o il tasto Gi� su questo teletrasportatore per uscire dal livello.
+Sembra che dobbiamo usare la Mitragliatrice per distruggere le pareti qui sotto.
+Se non fossi attaccato alla tua schiena, procederei lungo questo stretto condotto verticale alla tua sinistra.
+Obiettivo della missione: uccidere o essere uccisi
+Obiettivo della missione: trovare l'info-bot
+Obiettivo della missione: trovare la porta per le comunicazioni
+Obiettivo della missione: aprire la porta che blocca l'accesso alla porta per le comunicazioni
+Obiettivo della missione: usare la porta per le comunicazioni per parlare AA Big Al
+Obiettivo della missione: trovare soldi per il buttafuori
+Obiettivo della missione: trovare una parte del MCGuFIN
+Obiettivo della missione: distruggere Maximillian
+Obiettivo della missione: distruggere tutti II nemici
+Obiettivo della missione: distruggere tutti II nemici usando solo la chiave inglese
+Obiettivo della missione: distruggere tutti II nemici prima che finisca la salute
+Obiettivo della missione: distruggere tutti II nemici senza essere colpito
+Obiettivo della missione: trasformare tutti II nemici in cinghiali
+Obiettivo della missione: distruggere tutti II nemici usando solo il lanciarazzi
+Obiettivo della missione: distruggere II nemici usando la chiave inglese EE trovare il teletrasportatore
+Hai trovato %0 di %1 bulloni di titanio!
+Gas soporifero: la salute di Ratchet diminuisce col tempo.
+Uccidi tutti II nemici per superare il livello dell'arena.
+Un colpo � letale: Ratchet muore dopo un solo colpo.
+Ratchet pu� usare solo: %0.
+Munizioni
+Livello 2 sbloccato
+Livello 3 EE livelli arena sbloccati
+Livello 4 sbloccato
+Hai sbloccato una nuova area nei livelli 1 EE 2
+Hai ricevuto l'oggetto 1 EE sbloccato il livello 6
+Hai ricevuto l'oggetto 2 EE sbloccato il livello 8
+Hai ricevuto l'oggetto 4 EE met� delle coordinate per il livello 5
+Hai ricevuto l'oggetto 4 EE met� delle coordinate per il livello 5
+Hai sbloccato II livelli 7 EE 9
+Hai ricevuto l'oggetto 5
+Hai ricevuto l'oggetto 6
+Hai ricevuto un tesoro EE hai sbloccato la porta 3 del liv. 6
+Ricevuto passaggio barriera statica
+Livello 10 sbloccato
+Stanza del boss sbloccata
+Arma ricevuta (Mitragliatrice)
+Ricompensa bulloni: %0
+Hai vinto %0 bulloni!
+L'arena successiva � stata sbloccata.
+Hai ricevuto il Boar-Zooka.
+Non disponibile
+Compra
+Munizioni correnti: %0/%1
+Hai sbloccato la porta del livello 3
+Munizioni al massimo
+Tasto 1: salta AA sinistra.
+Tasto 3: salta AA destra.
+Softkey: pausa.
+Ora puoi corrompere il buttafuori
+ARMA
+Usata automaticamente vicino AA un nemico o una cassa. Non ha munizioni.
+Spara deboli EE rapidi colpi.
+Traiettoria leggera con un'ampia area di esplosione.
+Colpo dritto con piccola area di esplosione.
+Colpo potente che colpisce tutti II bersagli.  Pi� debole AA lungo raggio.
+Colpi deboli EE rapidi che inseguono il nemico.
+Trasforma il nemico in un maiale.
+Potenti colpi che seguono il bersaglio con un'area di esplosione ridotta.
+CASSE
+CASSA BULLONI
+NANOTECH
+CASSA GADGETRON
+Rompile per raccogliere bulloni.
+Rompile EE raccoglile per ripristinare parzialmente la salute.
+Ricarica le munizioni.
+Game Lobby
+Annulla
+Ripeti livello
+Salva/Replay
+Vorresti rigiocare la partita in modalit� Sfida?
+Scegli slot di salvataggio
+Ratchet & Clank � un marchio registrato di Sony Computer Entertainment America Inc. �2007 Sony Computer Entertainment America Inc. Tutti II diritti riservati. �2007 Sony Pictures Digital Inc. Tutti II diritti riservati.
+La tua partita � stata salvata
+Prendi la skin di Ratchet
+Puoi ottenere 2 grandiose skin per Ratchet: Gladiator multigiocatore se vinci la partita.
+Per maggiori informazioni visita il sito: www.sonypictures.com/mobile/ratchet
+Inserisci il tuo nome multigiocatore Ratchet: Gladiator:
+Il tuo nome:
+Sblocca 2 grandiose skin per Ratchet: Gladiator multigiocatore inserendo questo codice.
+Errore!
+Il nome multigiocatore deve contenere almeno 4 caratteri.
+Il nome multigiocatore deve essere inferiore AA 16 caratteri.
+Tutte le pistole
+RIEPILOGO STADIO
+Nemici uccisi:
+Bulloni:
+Bulloni di titanio:
+Tempo:
+Par:
+Bonus pacifista!
+Bonus perfetto!
+Bonus cinghiale!
+Punteggio:
+Tempo totale impiegato:
+Punteggio totale:
+Hai perso
+Riprova
+Livello:
+Nemici rimasti:
+Renegade Armor:
+Eugene:
+Lingua
+English
+Fran�ais
+Italiano
+Deutsch
+Espa�ol
+Caricamento...

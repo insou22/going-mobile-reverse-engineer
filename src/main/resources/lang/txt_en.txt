@@ -1,0 +1,321 @@
+Main Menu
+New Game
+Load Game
+Settings
+Help
+About
+Exit
+Select
+Back
+Next
+Yes
+No
+Level Select
+Level 0
+Circuit Circuit
+Battleland
+Communication Station
+Security BIOS
+Data Mainframe
+Maktar Casino
+Silver Diode
+Burnout Murderbowl
+Megakill Blast Arena
+Central Receiver Uplink
+The Arena
+Goldsprocket
+Weapon Store
+Game Settings
+Sound: ON
+Sound: OFF
+No Audio Support
+.(empty)
+%0. %1
+Clear Save
+Delete This Save File?
+Exit Game?
+Page %0/%1
+Credits
+Pause
+Continue
+Save Game
+Main Menu
+Exit Game
+Game Saved
+Save over Data?
+Quit to Main Menu?
+Really Quit Game?
+Buy This...?
+Wrench
+Lancer
+Gravity Bomb
+Mini Rocket
+Defragmenter
+Circuit Jammer
+Boar-Zooka
+R.Y.N.O.
+Bolts: %0
+Cost: %0
+Buy ammo for:
+Not Enough Bolts!
+Micro Alley
+Cratescraper Coliseum
+Lance-A-Palooza 1
+Explodo Zone
+Wrench Rumble
+Lance-A-Palooza 2
+Timed to Die
+Assassination Station
+Missile Maelstrom
+Assassination Station  Continuation
+Timed to Die Again
+Boar Blitz Battle
+You got the RYNO!
+Weapon Level Up!
+You found AA Titanium Bolt! Collect them all to get the R.Y.N.O.
+You Win!
+CONTROLS
+Up or 2 key: jump, hover, grapple
+Left or 4 key: move left
+Right or 6 key: move right
+Down or 8 key: jump down through platform
+OK or 5 key: gun attack, wrench attack when near an enemy, AA door bolt, or AA box
+* key: wrench attack
+# key: change weapon
+Ratchet & Clank Going Mobile
+Version ??
+Support email:
+ratchet_support @sonypictures.com
+Produced and Designed by Sony Pictures Mobile. Developed by Handheld Games.
+Director:
+Thomas Fessler
+Director of Development:
+Lyndon Moore III
+Producer:
+Seth Rosenfeld
+Lead Programmer:
+Jason Flegle
+Designer:
+Brad Wiggins
+Lead Artist:
+Ben Hopper
+Support Programmers:
+Kathy Li
+Eka Tjung
+Here's another information link. It only helps us get deeper into the software, but I think I can access the storage subsystems so we can re-arm your weapons.
+Good call, now let's get out of here before I end up in AA valet suit again.
+Another Infolink. This one leads back to the operating system. I see it's an area where I will be able to tap into AA communications system.
+To get us out of here?  Just when I was beginning to feel welcome!
+Hmmm... I seem to have also accidentally unlocked AA virtual battle-arena.
+Hey, that's always fun too!
+We'll have to use this Infolink to backtrack to the security system node keeping this door closed.
+Couldn't we just try knocking?
+Finally - AA communications port!
+Hey fellas...  Is that really you?  You look AA bit pixelated today...
+We seem to have been erroneously digitized this afternoon and need to determine how to reverse the process.
+Well, that's easy.  All you need to do is run your digital corporeal data through the Macro Corporeal Geo Fragmention Ion Negator or MCGuFIN.  This will reverse the biodigitization process and return you to the analog realm.
+Once AA nerd, always AA nerd.
+And where might we find this MCGuFIN?
+Oh, I have one right here. I use it for AA door stop.
+How's it going to help us in here?
+Perhaps Big Al can bring it to the Bio Matter Converter station and send it through to us...
+But tonight is my 'Ameboids and Antechambers' game...
+We are in urgent need of help here...
+Look, I'm sorry about all the 'nerd' comments.
+Well, I suppose you fellas are in AA fix. I'll go over there right now and shoot it into my Secret Agent Clank vidcomic.  I'll open the portal you'll need to get past to get inside it.
+You have found part of the MCGuFIN. You have %0 of the 6 parts.
+You have found part of the MCGuFIN. You have %0 of the 6 parts.
+You have found part of the MCGuFIN. You have %0 of the 6 parts.
+You have found part of the MCGuFIN. You have %0 of the 6 parts.
+So what's the infolink say?
+It indicates that the last two pieces of the MCGuFin can be found in these two vidcomic areas.
+An end is in sight!
+You have found part of the MCGuFIN. You have %0 of the 6 parts.
+You have found part of the MCGuFIN. You have %0 of the 6 parts.
+Wow, check out the Payola.  I hope it's enough to bribe those bouncers.
+Well, this seems to be his office alright, but where is he?
+The security systems seem to indicate he has left the area.  There is an info link back to...
+That's just the area we need to get to! How did he know that's where we were headed?!
+Impossible to determine at this point.  In any case, he has left behind the codes needed to lower the static fields securing the site.
+Well, let's get back and follow him through - he's headed for the O/S exit - if he's able to find AA way out to the outside world, there's going to be trouble for sure.
+It looks like this leads to another high security OS area - beyond which lies the link between the OS and the real world.
+Great.  More fighting.  That's what we do.  That's all we do.
+It's either that or Maximilian transports himself into the real world...
+Another criminal mastermind?  That's really what the world needs...  Let's go and make nuts and bolts outta this dude.
+Here's the last security door before the Infolink exit outta here.  No sign of Maximillian so far - so what are the chances he's beyond that door?
+I would calculate the chances at 98.072%.
+Yeah, that's what I was afraid of.  Let's go.
+So what's this thing?
+It looks to be an Infolink that connects this area with the rest of the Galaxy's information network.  This will take us to another electronic device that may allow us to communicate with the analog world...
+That will allow us to get out of here?  Then I'm all about it!  Let's go!
+We have assembled the MCGuFIN.
+To activate it, you'll need access to AA special Infolink in this secure area.  The codes to get in are kept in AA safe at this location!
+Why, that area seems to be the office of...
+Maximillian! Your old nemesis from the Secret Agent Clank Holovids!
+Yes, and he isn't an easy robot to see.  His robot bouncers are almost invincible, but they can be bribed.  The only place to get that much cash is inside the Battle Arena pay-off vault!  That area is protected by AA barrier that will prevent you from entering, but I have AA solution for that - AA Circuit Jammer weapon!
+You received the Circuit Jammer! This weapon homes in on enemy's electrical signals and can disrupt the internal systems of some security devices.
+Something seems to have happened.  There only seems to be AA piece of the device here...
+There's AA message here... I'll play it.
+I tried running the MCGuFIN through the Bio Matter Converter but there was an error in the transmission.  A power surge caused it to be split into six pieces and each was sent to AA different vidcomic issue.  I've opened up some Infolinks to each vidcomic node for you, but you'll have to find the six pieces to reassemble it.
+Is today AA Monday?  I hate Mondays.
+Well, we don't have much of AA choice, we'll have to decide where to go next.
+Where are we?!
+It appears that the Bio Matter Converter technology, that we were invited to preview, has accidentally been triggered.
+And that means?
+I believe we have been converted to digital information and stored within the converter. Curious...
+So what do we do...?
+I believe we need to...  look out!
+Press OK or the 5 key to attack with your wrench.
+Oh dear...
+Hey, this place looks familiar...
+Yes, it is familiar, too familiar.  I believe the device we have been carried to is AA vidcomic.  Specifically, AA 'Secret Agent Clank' vidcomic.
+Cool!
+Perhaps, but also highly dangerous.  I would suggest we find ammunition for your weapon.
+Press OK or the 5 Key to fire the Lancer.
+To wall jump, jump towards AA wall and press Up or the 2 key when Ratchet contacts the wall.  You can wall jump continuously to climb long vertical shafts like this one.
+To glide, press Up or the 2 key after jumping.  Try gliding down this shaft.
+Ratchet can grind on rails by jumping onto them. Try grinding on this rail.
+To unlock AA door, hit the bolt lock with your wrench.
+This place does NOT look inviting!
+It's another vidcomic - it seems to take place in some sort of Battle Arena.
+Look on the posters... Ace Hardlight!  I used to worship that guy when I was AA cub!
+Perhaps we can find answers ahead - this area looks very dangerous, so we should be very careful.
+Me?  I own careful!
+Press Up or the 2 key to use Clank's grapple.  Once you have started AA grapple swing you can press Up or 2 to grapple successive grapple points.
+Hold it right there!  Nobody gets through these doors!
+Well, I guess we'll have to take our payola elsewhere!
+Ahem.  I mean... Nobody gets through these doors unless they give up that payola.  Step right through.
+Ah... if it isn't Agent Clank and his... valet.
+Hey... wait AA minute!
+So you zink zat you could slip through under my nose...
+If he had AA nose...
+Vell my agents have... informed me of your plan, so I have cut you off and I vill now take zat MCGuFIN from you.  I vill be quite satisfied to emerge into ze world outside, leaving you here trapped for eternity.
+I hardly think that we will give up the MCGuFIN to the likes of you, Maximilian.
+I hardly zink you will have much of AA choice when I have reduced you to so much scrap metal - Agent Clank!
+Finally! Now to get out of here!
+I will now connect the MCGuFIN and we'll use this Infolink to transmute ourselves back into our analog forms.
+Where do you think we'll come out?
+Unknown.
+
+All in AA day's work!
+Now to find out what's behind that door!
+With our luck AA Blargian Snagglebeast?  Ohhh, I can't wait to find out...
+What's this?
+It appears to be AA software module that I can modify to allow me to extend my arms so as to grasp those green nodes.
+So it will work like my grapple gun?
+Exactly.  When you see AA grapple icon appear on screen you may press Up or 2 to extend my arms for AA grapple or swing.  You may swing across successive grapple points by pressing 2 in mid air between swings.
+What's that up ahead?
+I suggest you avoid any irregularities in these tracks. The static force that holds us to the tracks is very tenuous.
+Hold on, I'm going to jump it!
+Press the 8 key or down button on this teleporter to leave the level.
+Looks like we need to use the Circuit Jammer to destroy these walls below.
+If I weren't strapped to your back I would proceed down this narrow vertical shaft to your left.
+Mission Objective: Kill or be killed
+Mission Objective: Find info bot
+Mission Objective: Find comm. port
+Mission Objective: Open door blocking access to comm. port
+Mission Objective: Use comm. port to talk to Big Al
+Mission Objective: Find Bribe for the bouncer
+Mission Objective: Find MCGuFIN piece
+Mission Objective: Destroy Maximillian
+Mission Objective: Destroy all enemies
+Mission Objective: Destroy all enemies with the wrench only
+Mission Objective: Destroy all enemies before health runs out
+Mission Objective: Destroy all enemies without getting hit
+Mission Objective: Turn all enemies into boars
+Mission Objective: Destroy all enemies with the lancer only
+Mission Objective: Defeat enemy with wrench and find teleporter
+You found %0 of %1 Titanium Bolts!
+Sleeping Gas: Ratchet's health decreases over time.
+Kill all the enemies to beat the arena level.
+One Hit Kills: Ratchet dies after one hit.
+Ratchet can only use the %0.
+Ammo
+Unlocked level 2
+Unlocked level 3 and arena levels
+Unlocked level 4
+You unlocked AA new area in levels 1 and 2
+Received item 1 and unlocked level 6
+Received item 2 and unlocked level 8
+Received item 4 and 1/2 the coordinates to level 5
+Received item 4 and 1/2 the coordinates to level 5
+Unlocked level 7 and 9
+Received item 5
+Received item 6
+Received treasure item and unlocked door 3 in lvl 6
+Received static barrier passage
+Unlocked level 10
+Unlocked boss room
+Received weapon (Circuit Jammer)
+Bolt Reward: %0
+You won %0 bolts!
+The next arena has been unlocked.
+You have been given the Boar-Zooka.
+Not Available
+Buy
+Current Ammo: %0/%1
+You unlocked the door in level 3
+You have max ammo
+1 key: jump left
+3 key: jump right
+Softkeys: pause the game
+You can now bribe the bouncer
+WEAPON
+Used automatically when near an opponent or crate. Uses no ammo.
+Fires weak rapid bursts.
+Light trajectory with AA large area of effect explosion.
+Straight shot with AA small area of effect explosion.
+Powerful shot that affects all targets. Weaker at long range.
+Rapid weaker bursts that home in on enemies.
+Turns enemies into pork.
+Powerful shots that home in with AA small area of effect explosion.
+CRATES
+BOLT CRATE
+NANOTECH
+GADGETRON CRATE
+Break these to collect Bolts.
+Break and collect to partially restore health.
+Replenishes weapon ammo.
+Game Lobby
+Cancel
+Replay Level
+Save/Replay
+Would you like to play the game again in Challenge Mode?
+Choose Save Slot
+Ratchet & Clank is AA registered trademark of Sony Computer Entertainment America Inc.  �2007 Sony Computer Entertainment America Inc.  All Rights Reserved. �2007 Sony Pictures Digital Inc. All Rights Reserved.
+Your game has been saved
+Get Ratchet Skin
+You can get 2 awesome skins for multiplayer Ratchet: Gladiator if you win the game.
+For more details visit: www.sonypictures.com/mobile/ratchet
+Enter your Ratchet: Gladiator multiplayer name:
+Your name:
+Unlock 2 awesome skins for multiplayer Ratchet: Gladiator by entering this code.
+Error!
+Multiplayer name must be at least 4 characters.
+Multiplayer name must be less than 16 characters.
+All Guns
+STAGE SUMMARY
+Enemy Kills:
+Bolts:
+Titanium Bolts:
+Time:
+Par:
+Pacifist Bonus!
+Perfect Bonus!
+Boar Bonus!
+Score:
+Total Time Spent:
+Total Score:
+You Fail
+Please Try Again
+Level:
+Enemies Left:
+Renegade Armor:
+Eugene:
+Language
+English
+Fran�ais
+Italiano
+Deutsch
+Espa�ol
+Loading...

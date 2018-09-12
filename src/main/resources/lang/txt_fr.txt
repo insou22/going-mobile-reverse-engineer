@@ -1,0 +1,321 @@
+Menu principal
+Nouvelle partie
+Charger partie
+Param�tres
+Aide
+A propos
+Quitter
+S�lectionner
+Retour
+Suivant
+Oui
+Non
+Choix niveau
+Niveau 0
+Circuit-circuit
+Batailleland
+Station de com
+BIOS s�curit�
+Processeur
+Casino Maktar
+Diode en argent
+Boule mortelle
+Ar�ne m�ga-tuerie
+Liaison montante du r�cepteur
+L'Ar�ne
+Port en or
+Armurerie
+Param�tres
+Son: AVEC
+Son: SANS
+Pas de support audio
+. (vide)
+%0. %1
+Supprimer sauvegarde
+Supprimer cette sauvegarde ?
+Quitter la partie ?
+Page %0/%1
+Cr�dits
+Pause
+Continuer
+Sauvegarder
+Menu principal
+Quitter le jeu
+Partie sauvegard�EE
+Ecraser les donn�es ?
+Retour au menu principal ?
+Veux-tu vraiment quitter ?
+Acheter �AA... ?
+Cl� anglaise
+Lanceur
+Bombe gravit�
+Mini-roquette
+DD�fragmenteur
+Court-circuiteur
+Canon-sanglier
+R.Y.N.O.
+Boulons: %0
+Prix: %0
+Achat munitions pour:
+Pas assez de boulons !
+All�EE Micro
+Colis�EE gratte-caisses
+Lance-A-Freux 1
+Explosizone
+Cl� en folie
+Lance-A-Freux 2
+Heure de mort
+Station assassine
+Ma�lstrom de missiles
+Station assassine   suite
+Heure de mort encore
+Bataille de sangliers
+Tu as le RYNO !
+Arme niveau + !
+Tu as trouv� un Boulon en titane ! R�cup�re-les tous pour avoir le R.Y.N.O.
+Tu as gagn� !
+COMMANDES
+Haut ou touche 2: sauter, planer, grappin.
+Gauche ou touche 4: aller � gauche.
+Droite ou touche 6: aller � droite.
+Bas ou touche 8: traverser une plate-forme en sautant.
+OK ou touche 5: tirer, attaquer avec la cl� anglaise � proximit� DD'un ennemi, DD'une porte ou DD'une caisse.
+Touche *: attaquer avec la cl� anglaise.
+Touche #: changer DD'arme.
+Ratchet and Clank
+Version ??
+EE-mail assistance:
+ratchet_support @sonypictures.com
+Produit et con�u par Sony Pictures Mobile. DD�velopp� par Handheld Games.
+Direction:
+Thomas Fessler
+Direction du DD�veloppement:
+Lyndon Moore III
+Production:
+Seth Rosenfeld
+Programmation principale:
+Jason Flegle
+Conception:
+Brad Wiggins
+Graphismes:
+Ben Hopper
+Programmation suppl�mentaire:
+Kathy Li
+Eka Tjung
+Voici un autre Infolien. �AA va seulement nous aider � avancer dans le logiciel, mais je crois que je peux acc�der aux sous-syst�mes de m�moire pour pouvoir recharger tes armes.
+Super. Bon, sortons DD'ici avant que je ne me retrouve encore DD�guis� en valet de chambre.
+Un autre Infolien. Celui-ci nous ram�ne au syst�me DD'exploitation. Je vais pouvoir acc�der � un syst�me de communication dans cette zone.
+Pour nous sortir de l� ? Alors que je commen�ais tout juste � me sentir bien !
+Hm... Je crois que JJ'ai aussi DD�bloqu� une ar�ne de combat virtuelle par erreur.
+Bah, �AA peut �tre marrant �AA aussi !
+Il va falloir utiliser cet Infolien pour trouver le syst�me de s�curit� qui commande le verrouillage de cette porte.
+Est-ce qu'on ne pourrait pas frapper tout simplement ?
+Enfin�: un port de communication�!
+Salut... CC'est bien vous ? Vous avez l'air un peu pixellis� aujourd'hui...
+Je pense que nous avons �t� num�ris�s par erreur cet apr�s-midi et nous devons trouver comment inverser le processus.
+Rien de plus simple ! Il vous suffit de saisir vos donn�es corpo-num�riques dans l'Inverseur DD'Ions par G�o-Fragmentation Macro-Corporelle ou IIpGFMC. Cela inversera le processus de bio num�risation et vous retournerez dans le royaume analogique.
+Rat de labo un jour, rat de labo toujours.
+Et o� est-ce qu'on peut trouver cet IIpGFMC ?
+Oh, JJ'en ai un ici. Je l'utilise pour coincer la porte.
+Mais � quoi �AA va nous servir �tant donn� qu'on est coinc�s ici ?
+Peut-�tre que Big Al pourrait l'apporter jusqu'� la station du Convertisseur de bio mati�re et nous l'envoyer...
+Mais ce soir, je joue � 'Amibes et Antichambres'...
+On AA vraiment besoin DD'aide tout de suite...
+DD�sol� pour tous mes commentaires de 'rat de labo'.
+J'imagine que vous �tes dans le p�trin. Je vais y aller maintenant et le tirer dans mon vide-comique Agent secret Clank. Je vais ouvrir le portail par lequel vous devrez passer pour entrer.
+Tu as trouv� une pi�ce de l'IIpGFMC. Tu as %0 pi�ce(s) sur 6.
+Tu as trouv� une pi�ce de l'IIpGFMC. Tu as %0 pi�ce(s) sur 6.
+Tu as trouv� une pi�ce de l'IIpGFMC. Tu as %0 pi�ce(s) sur 6.
+Tu as trouv� une pi�ce de l'IIpGFMC. Tu as %0 pi�ce(s) sur 6.
+Bon, que dit l'Infolien ?
+Il indique que les deux derni�res pi�ces de l'IIpGFMC se trouvent dans ces deux zones vide-comiques.
+On y est presque alors !
+Tu as trouv� une pi�ce de l'IIpGFMC. Tu as %0 pi�ce(s) sur 6.
+Tu as trouv� une pi�ce de l'IIpGFMC. Tu as %0 pi�ce(s) sur 6.
+Waouh, regarde ces pots-de-vin. J'esp�re que �AA suffira pour soudoyer ces vigiles.
+Bon, on dirait bien son bureau, mais o� est-ce qu'il est pass� ?
+Les syst�mes de s�curit� semblent indiquer qu'il AA quitt� la zone. Il y AA un Infolien vers...
+CC'est justement la zone o� on doit aller ! Comment AA-t-il su que CC'est l� qu'on va ?
+Impossible de le savoir pour le moment. Quoi qu'il en soit, il AA laiss� les codes n�cessaires pour r�duire les champs statiques qui s�curisent le site.
+Bon, faisons demi-tour et partons � sa poursuite�: il se dirige vers la sortie S/EE. On va avoir de s�rieux probl�mes s'il trouve un moyen DD'aller dans le monde ext�rieur.
+On dirait que �AA m�ne � une autre zone de haute s�curit� du syst�me DD'exploitation, au-del� de laquelle se trouve le lien entre le syst�me DD'exploitation et le monde r�el.
+Super�: encore des combats... A croire qu'on aime �AA. Et rien que �AA.
+CC'est soit �AA, soit Maximilian atteint le monde r�el...
+Encore un vilain m�chant ? Tout ce dont le monde AA besoin... Allons lui r�gler son compte � celui-l�.
+Voici la derni�re porte s�curis�EE avant la sortie de l'Infolien. Aucun signe de Maximillian jusqu'� pr�sent. Comment peut-on savoir s'il est derri�re cette porte ?
+DD'apr�s mes calculs, il y AA 98,072% de chances.
+Oui, CC'est bien ce que je craignais. On y va.
+Qu'est-ce que CC'est que �AA ?
+On dirait un Infolien qui relie cette zone au reste du r�seau DD'information de la galaxie. Ca va nous mener � un autre appareil �lectrique qui pourra peut-�tre nous permettre de communiquer avec le monde analogique...
+Et �AA va nous faire sortir de l� ? Bon, je suis pr�t ! Allons-y !
+On AA assembl� l'IIpGFMC.
+Pour l'activer, tu dois acc�der � un Infolien sp�cial dans cette zone s�curis�EE. Les codes pour entrer sont conserv�s ici dans un coffre !
+Mais on dirait que cette zone est le bureau de...
+Maximillian ! Ton vieux N�m�sis des holo-vides Agent secret Clank !
+Oui, et CC'est un robot difficile � rencontrer. Ses vigiles robotiques sont quasiment invincibles, mais on peut les soudoyer. Le seul endroit o� on puisse r�cup�rer assez DD'argent, CC'est le coffre-fort de l'ar�ne de combat ! Cette zone est prot�GG�EE par une barri�re qui t'emp�chera DD'entrer, mais JJ'ai la solution�: le Court-circuiteur !
+Tu as re�u le Court-circuiteur ! Cette arme se greffe sur les signaux �lectriques ennemis et peut court-circuiter les syst�mes internes de certains dispositifs de s�curit�..
+Il AA DD� se passer quelque chose. Je ne vois qu'une seule pi�ce de l'appareil ici...
+On AA re�u un message... Je vais le lancer.
+J'ai essay� de faire marcher l'IIpGFMC via le Convertisseur de bio mati�re, mais il semble qu'il y ait eu une erreur de transmission. Une surcharge �lectrique l'AA fait �clater en six morceaux et chacun DD'eux AA �t� envoy� dans diff�rents vide-comiques. J'ai ouvert des Infoliens vers chaque vide-comique, et vous allez devoir trouver les six morceaux pour assembler l'appareil.
+CC'est lundi aujourd'hui ? Je hais le lundi.
+Bon, je crois que nous n'avons pas le choix, il va falloir choisir o� aller.
+O� est-ce qu'on est ?
+On dirait que la technologie du Convertisseur de bio mati�re que nous devions voir en exclusivit�, AA �t� lanc�EE accidentellement.
+Ce qui veut dire ?
+Je crois que nous avons �t� convertis en donn�es num�riques et que nous sommes stock�s dans le Convertisseur. Etrange...
+Et on fait quoi alors... ?
+Je crois que nous devons... Attention !
+Appuie sur OK ou sur la touche 5 pour attaquer avec la Cl� anglaise.
+Oh mon Dieu...
+HH�, cet endroit me dit quelque chose...
+Oui, en effet, mais CC'est bizarre. Je crois que l'appareil dans lequel nous avons �t� transf�r�s est un vide-comique. Et plus pr�cis�ment: un vide-comique 'Agent secret Clank'.
+Cool !
+Certes, mais CC'est aussi extr�mement dangereux. Je propose qu'on te trouve des munitions.
+Appuie sur OK ou sur la touche 5 pour tirer avec le Lanceur.
+Pour sauter sur un mur, saute en direction du mur et appuie sur Haut ou sur la touche 2 lorsque Ratchet le touche. Tu peux sauter sur le mur sans t'arr�ter pour escalader de longs tuyaux verticaux comme celui-ci.
+Pour planer, appuie sur Haut ou sur la touche 2 apr�s un saut. Essaie de planer le long de ce tuyau.
+Ratchet peut glisser sur des rampes en sautant dessus. Essaie de glisser sur cette rampe.
+Pour DD�verrouiller une porte, frappe le verrou avec ta cl� anglaise.
+Cet endroit n'est pas tr�s accueillant !
+CC'est un autre vide-comique�: on dirait que �AA se passe dans une sorte DD'Ar�ne de combat.
+Regarde les affiches... Ace Hardlight ! J'�tais fan de ce type quand JJ'�tais gamin !
+Peut-�tre qu'on va trouver des r�ponses�mais cette zone semble tr�s dangereuse, donc il vaut mieux rester prudents.
+Comment �AA ? Je suis toujours prudent moi !
+Appuie sur Haut ou sur la touche 2 pour utiliser le grappin de Clank. Une fois que tu as commenc� � te balancer, tu peux appuyer sur la touche Haut ou sur 2 pour t'accrocher � DD'autres points DD'ancrage.
+Pas si vite ! Personne n'AA le droit DD'entrer ici !
+Bon, JJ'imagine qu'il va falloir emporter nos pots-de-vin ailleurs alors !
+Euh. Je veux dire... personne n'AA le droit DD'entrer � moins de me donner ces pots-de-vin. Je vous en prie.
+Ah... mais ne serait-ce pas l'Agent Clank et son... valet.
+HH�... attends une minute !
+Tu pensais pouvoir me passer sous le nez comme �AA...
+S'il avait un nez...
+Mes agents m'ont... inform� de ton plan, donc te voil� pi�GG� et je vais te prendre ton IIpGFMC. Je vais pouvoir aller dans le monde r�el pendant que vous serez coinc�s ici pour l'�ternit�.
+Je crains que nous ne puissions laisser un type comme toi s'emparer de l'IIpGFMC, Maximilian.
+Et moi, je crains que tu ne puisses rien faire, une fois que je t'aurai transform� en tas de ferraille, Agent Clank !
+Enfin ! On va pouvoir sortir de l� !
+Je vais connecter l'IIpGFMC et nous utiliserons cet Infolien pour reprendre notre forme analogique.
+O� est-ce qu'on va arriver, � ton avis ?
+Aucune id�EE.
+
+Tout �AA en un jour !
+Bon, voyons ce qu'il y AA derri�re cette porte !
+Avec notre chance au Blargian Snagglebeast ? J'ai vraiment HH�te de voir...
+Qu'est-ce que CC'est ?
+On dirait un module logiciel que je peux modifier pour me permettre DD'�tendre mes bras afin de m'accrocher � ces nSuds verts.
+Donc �AA marche comme mon fusil-grappin ?
+Exactement. Quand tu vois une ic�ne de grappin appara�tre � l'�cran, tu peux appuyer sur les touches Haut ou 2 pour �tendre mes bras afin qu'ils servent de grappin ou de balancier. Tu peux te balancer entre plusieurs points DD'accroche successifs en appuyant sur la touche 2 en l'air apr�s t'�tre balanc�.
+CC'est quoi �AA, en face ?
+Je sugg�re DD'�viter toute irr�gularit� sur ces pistes. La force statique qui nous retient � la piste est tr�s faible.
+Attends, je vais sauter par-dessus !
+Appuie sur la touche 8 ou Bas sur ce t�l�porteur pour quitter le niveau
+Je crois qu'il faut utiliser le Court-circuiteur pour DD�truire les murs DD'en dessous.
+Si je n'�tais pas coll� � ton dos, je descendrais ce tuyau vertical �troit l�, � ta gauche.
+Objectif de mission: tuer ou se faire tuer
+Objectif de mission: trouver l'infobot
+Objectif de mission: trouver le port comm.
+Objectif de mission: ouvrir la porte bloquant l'acc�s au port comm.
+Objectif de mission: utiliser le port comm. pour parler � Big Al
+Objectif de mission: trouver de quoi soudoyer le vigile
+Objectif de mission: trouver une pi�ce de l'IIpGFMC
+Objectif de mission: DD�truire Maximillian
+Objectif de mission: DD�truire tous les ennemis
+Objectif de mission: DD�truire tous les ennemis avec la cl� anglaise uniquement
+Objectif de mission: DD�truire tous les ennemis avant de ne plus avoir de sant�
+Objectif de mission: DD�truire tous les ennemis sans te faire toucher
+Objectif de mission: transformer tous les ennemis en sangliers
+Objectif de mission: DD�truire tous les ennemis avec le lanceur uniquement
+Objectif de mission: vaincre l'ennemi avec la cl� anglaise et trouver le t�l�porteur
+Tu as trouv� %0 Boulon(s) de titane sur %1 !
+Gaz soporifique: la sant� de Ratchet diminue au fur et � mesure.
+Tue tous les ennemis pour passer le niveau de l'ar�ne.
+Frappes mortelles: Ratchet meurt sur le coup.
+Ratchet ne peut utiliser que�: %0.
+Munitions
+Niveau 2 DD�bloqu�
+Niveau 3 et niveaux DD'ar�ne DD�bloqu�s
+Niveau 4 DD�bloqu�
+Tu as DD�bloqu� une nouvelle zone dans les niveaux 1 et 2
+Objet 1 re�u et niveau 6 DD�bloqu�
+Objet 2 re�u et niveau 8 DD�bloqu�
+Objet 4 et 1/2 des coordonn�es du niveau 5 re�us
+Objet 4 et 1/2 des coordonn�es du niveau 5 re�us
+Niveaux 7 et 9 DD�bloqu�s
+Objet 5 re�u
+Objet 6 re�u
+Objet tr�sor re�u et porte 3 du niveau 6 DD�verrouill�EE
+Passage barri�re statique re�u
+Niveau 10 DD�bloqu�
+Salle du boss DD�verrouill�EE
+Arme re�ue (court-circuiteur)
+R�compense en boulons: %0
+Tu as gagn� %0 boulons !
+L'Ar�ne suivante AA �t� DD�bloqu�EE.
+On t'AA donn� le canon-sanglier.
+Indisponible
+Acheter
+Munitions actuelles: %0/%1
+Tu as DD�verrouill� la porte du niveau 3
+Tes munitions sont au maximum
+Touche 1: saut � gauche.
+Touche 3: saut � droite.
+Touches de s�lection: pause.
+Tu peux DD�sormais soudoyer le vigile
+ARME
+S'utilise automatiquement pr�s DD'un adversaire ou DD'une caisse. Pas de munitions.
+Tire des salves rapides mais faibles.
+Explosion avec une zone DD'effet importante.
+Tir direct avec une zone DD'effet r�duite.
+Tir puissant qui frappe toutes les cibles. Plus faible � longue port�EE.
+Tirs rapides mais plus faibles qui pourchassent les ennemis.
+Change les ennemis en sangliers.
+Tirs puissants qui pourchassent leur cible avec une petite zone DD'effet.
+CAISSES
+CAISSE BOULONS
+NANOTECH
+CAISSE GADGETRON
+Casse-les pour r�cup�rer des Boulons.
+A casser et r�cup�rer pour r�GG�n�rer la sant�.
+Recharge ton arme.
+Salon du jeu
+Annuler
+Rejouer niveau
+Sauvegarde/Rejouer
+Veux-tu rejouer au jeu en mode DD�fi ?
+Choix emplacement de sauvegarde
+Ratchet & Clank est une marque commerciale DD�pos�EE de Sony Computer Entertainment America Inc. �2007 Sony Computer Entertainment America Inc. Tous droits r�serv�s. �2007 Sony Pictures Digital Inc. Tous droits r�serv�s.
+Ta partie AA �t� sauvegard�EE
+Obtenir skin de Ratchet
+Tu peux obtenir 2 super skins pour Ratchet: Gladiator multijoueur si tu remportes la partie.
+Pour plus DD'infos, voir: www.sonypictures.com/mobile/ratchet
+Saisis ton nom pour Ratchet: Gladiator multijoueur�:
+Ton nom�:
+DD�verrouille 2 super skins pour Ratchet: Gladiator multijoueur en saisissant ce code.
+Erreur�!
+Le nom multijoueur doit comporter au moins 4 caract�res.
+Le nom multijoueur doit comporter moins de 16 caract�res.
+Tous les fusils
+R�SUM� DD'�TAPE
+Ennemis tu�s:
+Boulons:
+Boulons en titane:
+Temps:
+Par:
+Bonus pacifique�!
+Bonus perfection�!
+Bonus sanglier�!
+Score:
+Temps total �coul�!
+Score total:
+Tu as �chou�
+Essaie encore
+Niveau:
+Ennemis restants:
+Armure rebelle:
+Eugene:
+Langues
+English
+Fran�ais
+Italiano
+Deutsch
+Espa�ol
+Chargement...

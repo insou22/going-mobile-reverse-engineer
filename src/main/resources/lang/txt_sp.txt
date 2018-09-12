@@ -1,0 +1,321 @@
+Men� principal
+Nueva partida
+Cargar partida
+Opciones
+Ayuda
+Acerca de
+Salir
+Seleccionar
+Atr�s
+Pr�ximo
+S�
+No
+Seleccionar nivel
+Nivel 0
+Recorrer circuito
+Campo de batalla
+Centro de comunicaciones
+Security BIOS
+Ordenador mainframe de datos
+Casino Maktar
+Diodo de plata
+Burnout Murderbowl
+Megakill Blast Arena
+Conexi�n con receptor central
+Arena
+Rueda dentada de oro
+Armer�AA
+Opciones del juego
+Sonido: S�
+Sonido: NO
+No hay soporte para audio
+.(vac�o)
+%0. %1
+Borrar partida guardada
+�Borrar este archivo de partida guardada?
+�Salir del juego?
+P�GG. %0/%1
+Cr�ditos
+Pausa
+Continuar
+Guardar partida
+Men� principal
+Salir del juego
+Partida guardada
+�Sobreescribir datos?
+�Salir al men� principal?
+�Realmente deseas salir del juego?
+�Comprar esto...?
+Llave
+Lancer
+Bomba de gravedad
+Mini cohete
+Desfragmentador
+Generador de interferencias en circuitos
+Boar-Zooka
+R.Y.N.O.
+Tornillos: %0
+Precio: %0
+Comprar munici�n para:
+�No tienes suficientes tornillos!
+Corredor Micro
+Cratescaper Coliseum
+Lance-A-Palooza 1
+Explodo Zone
+Lucha con llave
+Lance-A-Palooza 2
+Muerte cronometrada
+Centro de asesinamiento
+Remolino de misiles
+Centro de asesinamiento  Continuaci�n
+Muerte cronometrada de nuevo
+Batalla rel�mpago de jabal�es
+�Tienes el RYNO!
+�Sube el nivel de armas!
+�Has encontrado un tornillo de titanio! Rec�gelos todos para conseguir el R.Y.N.O.
+�Has ganado!
+CONTROLES
+Arriba o tecla 2: saltar, sobrevolar, lucha cuerpo AA cuerpo.
+Izquierda o tecla 4: mover izquierda.
+Derecha o tecla 6: mover derecha.
+Abajo o tecla 8: saltar abajo atravesando la plataforma.
+OK o tecla 5: ataque con arma de fuego, ataque con llave cuando est�s cerca de un enemigo, un pestillo o una caja.
+Tecla *: ataque con llave.
+Tecla #: cambiar de arma.
+Ratchet and Clank
+Versi�n ??
+email de soporte
+ratchet_support @sonypictures.com
+Producido y dise�ado por Sony Pictures Mobile. Desarrollado por Handheld Games.
+Director:
+Thomas Fessler
+Director de desarrollo:
+Lyndon Moore III
+Productor:
+Seth Rosenfeld
+Director de programaci�n:
+Jason Flegle
+Dise�ador:
+Brad Wiggins
+Director art�stico:
+Ben Hopper
+Programadores de soporte:
+Kathy Li
+Eka Tjung
+Aqu� hay otro Infolink. S�lo nos sirve para adentrarnos m�s en las profundidades del software, pero creo que puedo acceder AA los sistemas de almacenamiento para recargar vuestras armas.
+"Bien hecho; ahora salgamos de aqu� antes de que yo acabe otra vez vestido de mayordomo."
+Otro Infolink. �ste vuelve al sistema operativo. Por lo que veo es un �rea en la que podr� pinchar un sistema de comunicaciones.
+�Para sacarnos de aqu�? �Ahora que empezaba AA sentirme bien recibido!
+Hmmm... Creo que he desbloqueado sin querer un campo de batalla virtual.
+�Bueno, eso siempre es divertido!
+Tendremos que utilizar este Infolink para regresar sobre nuestros pasos al nodo del sistema de seguridad que mantiene cerrada esta puerta.
+�Y si probamos AA llamar?
+�Por fin: un puerto de comunicaciones!
+Hey amigos...  �Sois vosotros de verdad? Ten�is un aspecto un tanto pixelado hoy...
+Al parecer esta tarde hemos sido digitalizados por error y tenemos que enterarnos de CC�mo invertir el proceso.
+Es FF�cil. Tan s�lo ten�is que pasar vuestros datos corp�reos por el Macro Corporeal Geo Fragmention Ion Negator o MCGuFIN, que invertir� el proceso de biodigitalizaci�n y os devolver� al �mbito anal�gico.
+Se las sabe todas este listillo.
+Y, �DD�nde podemos encontrar este MCGuFIN?
+Precisamente tengo uno aqu�. Lo uso como tope para la puerta.
+�De qu� puede servirnos aqu�?
+Quiz�s Big Al pueda llevarlo al centro convertidor de biomateria y hac�rnoslo llegar...
+Pero esta noche es mi juego 'Ameboides y antec�maras'...
+Nosotros necesitamos ayuda urgente...
+Disculpa mi comentario sobre que eres un listillo.
+Bueno, supongo que est�is en un aprieto. Voy AA ir ahora mismo y ponerlo en mi videocomic Agente Secreto Clank. Abrir� el portal por el que ten�is que pasar para entrar en �l.
+Has encontrado parte del MCGuFIN. Tienes %0 de las 6 piezas.
+Has encontrado parte del MCGuFIN. Tienes %0 de las 6 piezas.
+Has encontrado parte del MCGuFIN. Tienes %0 de las 6 piezas.
+Has encontrado parte del MCGuFIN. Tienes %0 de las 6 piezas.
+�Qu� dice el Infolink?
+Indica que las dos �ltimas piezas del MCGuFin se encuentran en estas dos �reas del videocomic.
+�Por fin se divisa el final!
+Has encontrado parte del MCGuFIN. Tienes %0 de las 6 piezas.
+Has encontrado parte del MCGuFIN. Tienes %0 de las 6 piezas.
+Mira AA ver en la Payola. Espero que haya suficiente dinero para sobornar AA los matones.
+Parece que s� es su oficina, pero �DD�nde esta �l?
+Seg�n los sistemas de seguridad, ha salido del �rea. Hay un Infolink que vuelve AA...
+�Es justo el �rea AA la que tenemos que ir! �CC�mo sab�AA hacia DD�nde nos dirig�amos?
+Imposible saberlo en este momento. Sea como sea, ha dejado atr�s los CC�digos necesarios para reducir los campos est�ticos que protegen el lugar.
+Retrocedamos y vayamos tras �l: se dirige AA la salida del sistema operativo. Si consigue encontrar la forma de salir al mundo exterior, seguro que hay problemas.
+Parece que esto conduce AA otra �rea de alta seguridad del sistema operativo, tras la cual se encuentra en enlace entre el sistema operativo y el mundo real.
+Estupendo. M�s lucha. No hacemos otra cosa
+O eso o Maximilian nos lleva en persona al mundo real...
+�Otra prodigiosa mente criminal? Justo lo que necesita el mundo... vayamos all� y dej�mosle hecho trizas.
+�sta es la �ltima puerta de seguridad antes de la salida AA trav�s del Infolink. Hasta el momento no hay se�al de Maximilian. �Qu� posibilidades hay de que se encuentre tras esa puerta?
+Yo calcular�AA la posibilidad en un 98,072%.
+S�, eso me tem�AA. Vamos.
+�Qu� es esta cosa?
+Parece un Infolink que conecta esta �rea con el resto de la red de datos de la Galaxia. Nos llevar� AA otro dispositivo electr�nico que tal vez nos permita comunicarnos con el mundo anal�gico...
+�Y con eso podremos salir de aqu�? �Entonces yo estoy por la labor! �Vamos!
+Hemos montado el MCGuFIN.
+Para activarlo tendr�s que acceder AA un Infolink especial del �rea protegida. �Los CC�digos para entrar est�n en una caja fuerte en este punto!
+�Eh, esta �rea parece ser la oficina de...
+Maximillian! �Tu viejo enemigo del videoholograma Agente Secret Clank!
+S�, y no es un robot que resulte FF�cil de ver. Sus matones son pr�cticamente invencibles, pero sobornables. �El �nico lugar donde pod�is conseguir tanto dinero es en el interior de la CC�mara acorazada de la Arena de Batalla!  Esta �rea est� protegida por una barrera que os impedir� entrar, pero tengo la soluci�n: �Un arma que produce interferencias en los circuitos!
+�Has recibido el Generador de interferencias! Esta arma ataca las se�ales el�ctricas y puede da�ar los sistemas internos de algunos dispositivos de seguridad.
+Aqu� ha debido de pasar algo. S�lo parece haber una pieza del dispositivo...
+Aqu� hay un mensaje... voy AA ponerlo.
+He probado AA pasar el MCGuFIN por el Convertidor de biomateria pero se produjo un error en la transmisi�n. Una subida de corriente lo dividi� en seis piezas y cada una fue AA parar AA un n�mero distinto del videocomic. He abierto Infolinks AA cada nodo de los videocomics: tendr�is que encontrar las seis piezas y recomponerlo
+�Hoy es lunes? Odio los lunes.
+No tenemos otra elecci�n: tenemos que decidir DD�nde ir AA continuaci�n.
+�DD�nde estamos?
+Parece que se ha disparado accidentalmente la tecnolog�AA del Convertidor de biomateria que hab�amos sido invitados AA presenciar antes de su estreno.
+�Y qu� quiere decir eso?
+Creo que hemos sido convertidos en datos digitales y almacenados en el convertidor. Curioso...
+�Y qu� hacemos ahora?
+Creo que tenemos que... �cuidado!
+Pulsa OK o la tecla 5 para atacar con tu llave.
+Ay, Dios...
+�Eh, este lugar me resulta conocido!
+S�, demasiado conocido. Creo que el dispositivo al que hemos sido transportados es un videocomic. En concreto, un videocomic del 'Agente Secreto Clank'.
+�Guay!
+S�, pero tambi�n muy peligroso. Sugerir�AA que busc�semos munici�n para tu arma.
+Pulsa OK o la tecla 5 para disparar el Lancer.
+Para saltar una pared, salta hacia ella y pulsa Arriba o la tecla 2 cuando Ratchet entre en contacto con la pared. Puedes saltar continuadamente para escalar largos tramos verticales como �ste.
+Para resbalar, pulsa Arriba o la tecla 2 despu�s de saltar. Prueba AA resbalar por este eje.
+Ratchet puede deslizarse por ra�les saltando sobre ellos. Desl�zate por este ra�l.
+Para abrir una puerta cerrada con llave, golpea la cerradura con tu llave.
+�Desde luego, este lugar NO resulta acogedor!
+Es otro videocomic: al parecer sucede en una especia de Arena de batalla.
+Mira los p�sters... �Ace Hardlight! �De ni�o adoraba AA este tipo!
+Tal vez encontremos las respuestas m�s adelante. Esta �rea parece peligrosa: hemos de tener mucho cuidado.
+�Yo? �Yo siempre soy muy precavido!
+Pulsa Arriba o la tecla 2 para utilizar la presa de Clank. Una vez comenzada un giro con presa, pulsa Arriba o 2 para hacer presa en puntos sucesivos.
+�Quietos ah�! �Nadie puede pasar por estas puertas!
+�Bueno, parece que tendremos que llevarnos nuestra payola AA otro lugar!
+Ejem, quiero decir... Nadie puede pasar por estas puertas AA menos que entregue su payola. Adelante.
+Ah... Seguro que es el Agente Clank con su... mayordomo.
+�Eh, un momento!
+As� que pens�is que pod�is colarros ante mis narrices...
+Si tuviera narices...
+Bien, mis agentes me han inforrmado de vuestrro  plan... Os he corrtado la salida y ahora me quedarr� con vuestrro MCGuFIN. Me ser� muy agrradable emerger al mundo exterriorr dejandoos atrapados aqu� porr toda la eterrnidad.
+No tengo la menor intenci�n de entregarte el MCGuFIN, Maximilian.
+No crreo que teng�is mucha capacidad de elecci�n cuando os haya reducido AA chatarra - �Agente Clarrk!
+�Por fin! �Salgamos de aqu�!
+Ahora conectar� el MCGuFIN y utilizaremos este Infolink para transmutarnos de nuevo AA nuestras formas anal�gicas.
+�DD�nde crees que apareceremos!
+Desconocido.
+
+�Y todo en un solo DD�AA!
+Ahora veamos qu� hay tras esa puerta.
+Con la suerte que tenemos habr� un Blargian Snagglebeast. Ohh, ardo en ganas de saberlo...
+�Qu� es esto?
+Parece un m�dulo de software que puedo modificar para que me permita extender los brazos hasta poder agarrar uno de esos nodos verdes.
+�Funcionar� como mi arma de presa?
+Exacto. Cuando veas que aparece en pantalla un icono de presa puedes pulsar Arriba o 2 para extender mis brazos para una presa o un giro. Puedes girar en puntos sucesivos pulsando 2 en el aire entre giros.
+�Qu� hay ah� delante?
+Te recomiendo que evites cualquier irregularidad en estas v�as. La fuerza est�tica que nos mantiene unidos AA la v�AA es muy tenue.
+Un momento, �voy AA saltarlo!
+Pulsa la tecla 8 o el bot�n Abajo para que el teletransportador salga del nivel.
+Parece que tenemos que utilizar el generador de interferencias para destruir los muros de debajo.
+Si no estuviera atado AA tu espalda bajar�AA por el eje vertical de tu izquierda.
+Objetivo de la misi�n: Matar o morir
+Objetivo de la misi�n: Encontrar el bot
+Objetivo de la misi�n: Encontrar el puerto de comunicaciones
+Objetivo de la misi�n: Abrir la puerta que bloquea el acceso al puerto de comunicaciones.
+Objetivo de la misi�n: Utilizar el puerto de comunicaciones para hablar con Big Al
+Objetivo de la misi�n: Encontrar soborno para el mat�n
+Objetivo de la misi�n: Encontrar pieza de MCGuFIN
+Objetivo de la misi�n: Destruir AA Maximillian
+Objetivo de la misi�n: Destruir AA todos los enemigos
+Objetivo de la misi�n: Destruir AA todos los enemigos s�lo con la llave
+Objetivo de la misi�n: Destruir AA todos los enemigos antes de agotar la vida
+Objetivo de la misi�n: Destruir AA todos los enemigos sin recibir golpes
+Objetivo de la misi�n: Convertir AA todos los enemigos en jabal�es
+Objetivo de la misi�n: Destruir AA todos los enemigos s�lo con el lancer
+Objetivo de la misi�n: Derrotar al enemigo con la llave y encontrar el teletransportador
+�Has encontrado %0 de %1 tornillos de titanio!
+Gas adormecedor: La vida de Ratchet disminuye con el tiempo.
+Matar AA todos los enemigos para superar el nivel arena.
+Golpe mortal: Ratchet muere si recibe un solo golpe.
+Ratchet s�lo puede usar el %0.
+Munici�n
+Nivel 2 desbloqueado
+Desbloqueados Nivel 3 y arena
+Nivel 4 desbloqueado
+Has desbloqueado una nueva �rea en los niveles 1 y 2
+Recibido art�culo 1 y desbloqueado nivel 6
+Recibido art�culo 2 y desbloqueado nivel 8
+Recibido art�culo 4 y 1/2 de las coordenadas para el nivel 5
+Recibido art�culo 4 y 1/2 de las coordenadas para el nivel 5
+Desbloqueados niveles 7 y 9
+Recibido art�culo 5
+Recibido art�culo del tesoro y desbloqueada puerta 3 en nivel 6
+Recibido art�culo del tesoro y desbloqueada puerta 3 en nivel 6
+Recibido paso para barrera est�tica
+Desbloqueado nivel 10
+Desbloqueada sala del jefe
+Recibida arma (Generador de interferencias)
+Tornillos de recompensa: %0
+�Has ganado %0 tornillos!
+Se ha desbloqueado la siguiente arena.
+Te entregan el Bazooka de jabal�es.
+No disponible
+Comprar
+Munici�n actual: %0/%1
+Has desbloqueado la puerta del nivel 3
+Tienes el m�ximo de munici�n
+Tecla 1: saltar izquierda.
+Tecla 3: saltar derecha.
+Teclas de selecci�n: pausar el juego.
+Ahora puedes sobornar al mat�n
+ARMA
+Se utiliza autom�ticamente al acercarte AA un contrario o un caj�n. No gasta munici�n.
+Dispara r�fagas r�pidas y DD�biles.
+Trayectoria de poco alcance con gran �rea de efecto explosi�n.
+Disparo recto con peque�AA �rea de efecto explosi�n.
+Disparo potente que afecta AA todos los objetivos. M�s DD�bil AA larga distancia.
+R�fagas r�pidas m�s DD�biles que da�an AA los enemigos.
+Convierte AA los enemigos en carne de cerdo.
+Disparos potentes que da�an al enemigo con una peque�AA �rea de efecto explosi�n.
+CAJONES
+CAJ�N DE TORNILLOS
+NANOTECH
+CAJ�N DE GADGETRON
+R�mpelos para recoger tornillos.
+R�mpelos y rec�gelos para devolver parcialmente la salud.
+Recarga la munici�n del arma.
+Sal�n de juego
+Cancelar
+Repetir nivel
+Guardar/Repetir
+�Quieres volver AA jugar en Modo Desaf�o?
+Elegir ranura para guardar
+Ratchet & Clank es una marca registrada de Sony Computer Entertainment America Inc.  �2007 Sony Computer Entertainment America Inc.  Reservados todos los derechos. �2007 Sony Pictures Digital Inc. Reservados todos los derechos.
+Tu partida se ha guardado.
+Conseguir skin de Ratchet
+Puedes conseguir 2 fant�sticas skins para Ratchet: Gladiator si ganas.
+Encontrar�s m�s informaci�n visitando: www.sonypictures.com/mobile/ratchet
+Introduce tu nombre de multijugador para Ratchet: Gladiator:
+Tu nombre:
+Desbloquea 2 fabulosas skins para Ratchet: Gladiator multijugador introduciendo este CC�digo.
+�Error!
+El nombre de multijugador debe tener al menos 4 caracteres.
+El nombre de multijugador debe tener al menos 16 caracteres.
+Todas las armas de fuego
+RESUMEN DEL ESTADO
+Enemigos muertos:
+Tornillos:
+Tornillos de titanio:
+Tiempo:
+Par:
+�Bonificaci�n pacifista!
+�Bonificaci�n perfecta!
+�Bonificaci�n jabal�!
+Puntuaci�n:
+Tiempo total jugado:
+Puntuaci�n total:
+Has fallado
+Vuelve AA intentarlo
+Nivel:
+Enemigos vivos:
+Armadura rebelde:
+Eugene:
+Idioma
+English
+Fran�ais
+Italiano
+Deutsch
+Espa�ol
+Cargando...
